@@ -1,0 +1,46 @@
+{
+  "title": {
+    "message": "조성현",
+    "description": "The title in the navbar"
+  },
+  "item.label.Articles": {
+    "message": "블로그",
+    "description": "Navbar item with label Articles"
+  },
+  "item.label.Today": {
+    "message": "오늘",
+    "description": "Navbar item with label Today"
+  },
+  "item.label.Graph": {
+    "message": "그래프",
+    "description": "Navbar item with label Graph"
+  },
+  "item.label.Random": {
+    "message": "무작위",
+    "description": "Navbar item with label Random"
+  },
+  "logo.alt": {
+    "message": "Sunghyun Cho Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Email": {
+    "message": "이메일",
+    "description": "Navbar item with label Email"
+  },
+  "item.label.Research": {
+    "message": "연구 노트",
+    "description": "Navbar item with label Research"
+  },
+  "item.label.Hacker News Summary": {
+    "message": "Hacker News Summary",
+    "description": "Navbar item with label Hacker News Summary"
+  },
+  "item.label.해커뉴스 요약": {
+    "message": "해커뉴스 요약",
+    "description": "Navbar item with label 해커뉴스 요약"
+  },
+  "item.label.Hey 👋🏻": {
+    "message": "안녕하세요 👋🏻",
+    "description": "Navbar item with label Hey 👋🏻"
+  }
+}

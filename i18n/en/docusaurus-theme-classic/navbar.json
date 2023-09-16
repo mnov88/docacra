@@ -1,0 +1,46 @@
+{
+  "title": {
+    "message": "Sunghyun Cho",
+    "description": "The title in the navbar"
+  },
+  "item.label.Articles": {
+    "message": "Articles",
+    "description": "Navbar item with label Articles"
+  },
+  "item.label.Today": {
+    "message": "Today",
+    "description": "Navbar item with label Today"
+  },
+  "item.label.Graph": {
+    "message": "Graph",
+    "description": "Navbar item with label Graph"
+  },
+  "item.label.Random": {
+    "message": "Random",
+    "description": "Navbar item with label Random"
+  },
+  "logo.alt": {
+    "message": "Sunghyun Cho Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Email": {
+    "message": "Email",
+    "description": "Navbar item with label Email"
+  },
+  "item.label.Research": {
+    "message": "Research",
+    "description": "Navbar item with label Research"
+  },
+  "item.label.Hacker News Summary": {
+    "message": "Hacker News Summary",
+    "description": "Navbar item with label Hacker News Summary"
+  },
+  "item.label.해커뉴스 요약": {
+    "message": "해커뉴스 요약",
+    "description": "Navbar item with label 해커뉴스 요약"
+  },
+  "item.label.Hey 👋🏻": {
+    "message": "Hey 👋🏻",
+    "description": "Navbar item with label Hey 👋🏻"
+  }
+}
